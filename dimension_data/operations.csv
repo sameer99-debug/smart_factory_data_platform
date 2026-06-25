@@ -1,0 +1,43 @@
+work_station_id,work_station,product_name,operation_sequence,ideal_cycle_time_sec
+PU_01,Punching,Fire rated door,10,70
+BE_01,Bending,Fire rated door,20,90
+WL_01,Welding,Fire rated door,30,110
+AM_01,Assembly,Fire rated door,40,130
+PC_01,Powder coating,Fire rated door,50,90
+PK_01,Packaging,Fire rated door,60,40
+PU_01,Punching,Side panel door,10,45
+BE_01,Bending,Side panel door,20,60
+WL_01,Welding,Side panel door,30,75
+AM_01,Assembly,Side panel door,40,90
+PC_01,Powder coating,Side panel door,50,60
+PK_01,Packaging,Side panel door,60,30
+PU_01,Punching,Transom panel door,10,50
+BE_01,Bending,Transom panel door,20,65
+WL_01,Welding,Transom panel door,30,80
+AM_01,Assembly,Transom panel door,40,95
+PC_01,Powder coating,Transom panel door,50,65
+PK_01,Packaging,Transom panel door,60,30
+PU_01,Punching,Seamless door,10,65
+BE_01,Bending,Seamless door,20,85
+WL_01,Welding,Seamless door,30,105
+AM_01,Assembly,Seamless door,40,120
+PC_01,Powder coating,Seamless door,50,85
+PK_01,Packaging,Seamless door,60,37.5
+PU_01,Punching,Sliding door,10,55
+BE_01,Bending,Sliding door,20,70
+WL_01,Welding,Sliding door,30,85
+AM_01,Assembly,Sliding door,40,100
+PC_01,Powder coating,Sliding door,50,70
+PK_01,Packaging,Sliding door,60,32.5
+PU_01,Punching,Oversized door,10,85
+BE_01,Bending,Oversized door,20,110
+WL_01,Welding,Oversized door,30,140
+AM_01,Assembly,Oversized door,40,160
+PC_01,Powder coating,Oversized door,50,120
+PK_01,Packaging,Oversized door,60,50
+PU_01,Punching,Access panel,10,35
+BE_01,Bending,Access panel,20,45
+WL_01,Welding,Access panel,30,55
+AM_01,Assembly,Access panel,40,65
+PC_01,Powder coating,Access panel,50,45
+PK_01,Packaging,Access panel,60,22.5

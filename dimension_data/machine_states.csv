@@ -1,0 +1,6 @@
+status,meaning
+RUNNING,Machine is producing
+IDLE,Machine is available but not producing
+DOWN,Unplanned breakdown
+SETUP,Tool change/setup/job change
+MAINTENANCE,Planned maintenance

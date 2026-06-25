@@ -1,0 +1,7 @@
+work_station_id,work_station
+PU_01,Punching
+BE_01,Bending
+WL_01,Welding
+AM_01,Assembly
+PC_01,Powder coating
+PK_01,Packaging

@@ -1,0 +1,51 @@
+operator_id,name,assigned_station_id,assigned_station,skill_level,shift
+OP_001,Toni Ponce,PK_01,Packaging,Junior,C
+OP_002,Erik Cunningham,WL_01,Welding,Junior,A
+OP_003,Julia Maxwell,PK_01,Packaging,Junior,C
+OP_004,Kelli Brown,PC_01,Powder coating,Junior,B
+OP_005,Sandra Harris,PU_01,Punching,Junior,A
+OP_006,Brent Sellers,BE_01,Bending,Mid,A
+OP_007,Martha Hernandez,PC_01,Powder coating,Junior,C
+OP_008,Nicholas Ramirez,PK_01,Packaging,Mid,A
+OP_009,Carrie Swanson,AM_01,Assembly,Mid,A
+OP_010,Robert Wallace,BE_01,Bending,Mid,B
+OP_011,Ian Herrera,WL_01,Welding,Junior,B
+OP_012,Robert Evans,PU_01,Punching,Junior,A
+OP_013,Henry Estrada,WL_01,Welding,Senior,C
+OP_014,Sharon Thompson MD,WL_01,Welding,Senior,C
+OP_015,Paige Fry,AM_01,Assembly,Mid,B
+OP_016,Hannah Wilson,PU_01,Punching,Mid,C
+OP_017,Jeremy Murphy,PC_01,Powder coating,Senior,B
+OP_018,Michael Benton DDS,PC_01,Powder coating,Junior,A
+OP_019,Marcus Lucas,PU_01,Punching,Mid,B
+OP_020,William Giles,PU_01,Punching,Senior,A
+OP_021,Ashley Cortez,AM_01,Assembly,Junior,C
+OP_022,Nathaniel Griffin,WL_01,Welding,Junior,B
+OP_023,Kristin Garcia,BE_01,Bending,Mid,C
+OP_024,Anthony Jordan,PK_01,Packaging,Mid,C
+OP_025,David Medina,PK_01,Packaging,Junior,C
+OP_026,Marc Hunter,BE_01,Bending,Junior,B
+OP_027,Kelsey Ray,WL_01,Welding,Senior,C
+OP_028,Brandon Sawyer,PK_01,Packaging,Mid,C
+OP_029,John Flores,WL_01,Welding,Senior,A
+OP_030,Joy Lopez,BE_01,Bending,Senior,B
+OP_031,Jennifer Schwartz,AM_01,Assembly,Junior,A
+OP_032,Miranda Cook,PC_01,Powder coating,Senior,B
+OP_033,Randall Morrow,BE_01,Bending,Mid,B
+OP_034,Cindy Rivera,PK_01,Packaging,Mid,B
+OP_035,Natalie Owens,BE_01,Bending,Junior,C
+OP_036,David Edwards,PC_01,Powder coating,Junior,C
+OP_037,Erin Soto,AM_01,Assembly,Senior,B
+OP_038,Deborah Drake,WL_01,Welding,Junior,A
+OP_039,Dr. Crystal George,PC_01,Powder coating,Mid,A
+OP_040,Joel Hodges,PU_01,Punching,Junior,A
+OP_041,Emily Jones,PK_01,Packaging,Mid,A
+OP_042,Andrea Bolton,AM_01,Assembly,Mid,B
+OP_043,Peggy Williams,PC_01,Powder coating,Junior,C
+OP_044,Brooke Goodwin,PU_01,Punching,Mid,A
+OP_045,Shannon Robertson,PK_01,Packaging,Senior,B
+OP_046,Tracy Hill,PK_01,Packaging,Mid,B
+OP_047,Brittney Smith,AM_01,Assembly,Junior,A
+OP_048,Dean Baird,PK_01,Packaging,Senior,B
+OP_049,Christian Sanchez,PC_01,Powder coating,Senior,C
+OP_050,Jordan Hayes,PU_01,Punching,Senior,B

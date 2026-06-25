@@ -1,0 +1,8 @@
+product_id,product_name,standard_cycle_time_sec,target_scrap_rate
+PD_01,Fire rated door,720,0.03
+PD_02,Side panel doors,840,0.06
+PD_03,Transom panel doors,780,0.06
+PD_04,Seamless doors,660,0.05
+PD_05,Sliding doors,540,0.04
+PD_06,Oversized doors,960,0.06
+PD_07,Access panels,300,0.03
